@@ -1,0 +1,27 @@
+Algorithme déplacement(position_x , position_y)
+Variable
+    joueur position x <- 0 : entier
+    joueur position y <- 0 : entier
+    arrivée position x <- 5 : entier
+    arrivée position y <- 5 : entier
+
+    déplacement <- 0 : entier
+    max_déplacement <- 15 : entier
+Début
+
+    tant que jouerPositionX != arrivée position_x et JoueurPositiony != arrivée position_y et déplacement < 15 
+    alors 
+
+    déplacement JoueurPoistionX, JoueurPosition Y + 1
+    déplacement + 1 
+
+    fin tant que 
+
+    if joueur position_x et  joueur position_y == arrivéePositionY : "Vous avez gagné" 
+
+    else  loose
+Fin
+
+
+
+mdp wordpress : wuXw*fdBs4mla)4qbw
